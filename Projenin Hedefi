@@ -1,0 +1,22 @@
+Bu projede, ASP.NET Core MVC kullanılarak hem kadınlar için Kuaför/Güzellik Salonu hem de erkekler için Kuaför/Berber Salonu işletmelerine yönelik bir kuaför işletme yönetim uygulaması geliştirilmesi amaçlanmaktadır. 
+Eğer proje ortak bir şekilde gerçekleştirilirse, sistem hem kadın hem de erkek salonlarını destekleyecek şekilde yapılandırılacaktır.
+
+Projenin Özellikleri
+Hizmet ve Ücret Yönetimi:
+
+Salonların sunduğu işlemler, bu işlemlerin süreleri ve ücretleri sisteme tanımlanabilir.
+Çalışan Yönetimi:
+
+Çalışanların uzmanlık alanları ve müsaitlik durumları sistemde kayıt altına alınacaktır.
+Kullanıcılar, uygun çalışanlardan kolayca randevu alabileceklerdir.
+Verimlilik ve Gelir Takibi:
+
+Çalışanların günlük verimlilikleri ve kazançları sistem üzerinden takip edilebilecektir.
+REST API Entegrasyonu:
+
+Veri tabanı ile iletişim REST API aracılığıyla sağlanacaktır, bu da sistemin daha esnek ve modüler bir yapıda olmasına olanak tanıyacaktır.
+Yapay Zeka Entegrasyonu:
+
+Kullanıcıların yükledikleri fotoğraflar üzerinden saç modeli veya renk önerileri sunulacaktır. Bu sayede daha kişiselleştirilmiş bir deneyim sağlanacaktır.
+Amaç ve Katkılar
+Bu uygulama, kuaför işletmelerinin hizmetlerini daha etkili bir şekilde yönetmelerine yardımcı olmayı hedefler. Hem çalışan verimliliğini hem de müşteri memnuniyetini artıracak bir sistem sunulması planlanmaktadır. Ayrıca, yapay zeka ile sağlanan saç modeli önerileri, sektörde inovatif bir çözüm olarak dikkat çekecektir.
